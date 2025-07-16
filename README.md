@@ -66,7 +66,8 @@ Click the Predict button to see the predicted final score and pass/fail status.
 View prediction history and data visualizations on the main page.
 
 📊 Demo Screenshot
-<!-- Add your screenshot here -->
+![Demo Screenshot](images/demo.jpeg)
+
 📫 Contact
 Feel free to reach out for questions or suggestions!
 
