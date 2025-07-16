@@ -26,6 +26,12 @@ A Streamlit web application that predicts student final exam scores based on stu
 
 ---
 
+## 📊 Demo Screenshot
+
+![Demo Screenshot](images/demo.jpeg)
+
+---
+
 ## ⚙️ How to Clone and Use
 
 ### 1. Clone the repository
@@ -65,8 +71,6 @@ Click the Predict button to see the predicted final score and pass/fail status.
 
 View prediction history and data visualizations on the main page.
 
-📊 Demo Screenshot
-![Demo Screenshot](images/demo.jpeg)
 
 📫 Contact
 Feel free to reach out for questions or suggestions!
