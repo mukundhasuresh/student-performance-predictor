@@ -75,11 +75,10 @@ View prediction history and data visualizations on the main page.
 📫 Contact
 Feel free to reach out for questions or suggestions!
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: [GitHub: https://github.com/mukundhasuresh]
 
-LinkedIn: [Your LinkedIn Profile URL]
+LinkedIn: [https://www.linkedin.com/in/mukundha-suresh-390309203/]
 
-Replace YOUR_USERNAME with your GitHub username and update the LinkedIn URL accordingly.
 
 🔖 License
 This project is open source and available under the MIT License.
